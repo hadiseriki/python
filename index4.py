@@ -14,7 +14,7 @@ print(type(6+7.0))
 print(type(6.9+7.0))
 print(type(4.9_7))
 
-print(type(4_7))
+# print(type(4_7))
 print(type( 4+7))
 print(type( 4*7))
 print(type( 4/7))
